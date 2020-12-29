@@ -1,0 +1,5 @@
+*.gtp
+.idea/
+.idea
+tmp/folder/file3.txt
+!tmp/folder2/file4.gtp
